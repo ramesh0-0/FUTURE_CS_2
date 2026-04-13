@@ -22,3 +22,8 @@ This repository contains a professional security analysis of phishing email samp
 
 ## 🚀 Key Findings
 The analyzed sample used a **Shopify sub-domain** and a fresh **TLS certificate** to bypass basic user suspicion. The absence of a **DMARC** policy made the email spoofing successful.
+
+
+## evdience 
+
+<img width="1920" height="1080" alt="imgphi1" src="https://github.com/user-attachments/assets/66a1ac7b-fccb-4e7f-9366-35cf0938448b" />
