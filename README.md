@@ -17,7 +17,7 @@ This repository contains a professional security analysis of phishing email samp
 4. **Classification**: Categorizing the threat level based on technical evidence.
 
 ## 📁 Repository Structure
-- `phishing_detection_report_2026.pdf`: Detailed analysis and awareness guidelines.
+- `phishing_report.dox`: Detailed analysis and awareness guidelines.
 - `evidence/`: Screenshots of header analysis and VirusTotal results (if applicable).
 
 ## 🚀 Key Findings
